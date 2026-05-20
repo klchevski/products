@@ -1,3 +1,3 @@
-Milk
-Soda
-Water
+Name: Milk price = 12000
+Name: Soda price = 13000 
+Name: Water price = 8000
