@@ -1,7 +1,7 @@
 logins:
-Viktor22
-Sasha55
-Niko11
-Alina-shmalina
-Pavel
-Diana
+Viktor22 = 230
+Sasha55 = 400
+Niko11 = 500
+Alina-shmalina = 120
+Pavel = 600
+Diana = 800
