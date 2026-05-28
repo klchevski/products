@@ -1,3 +1,4 @@
 Name: Milk price = 12000
 Name: Soda price = 13000 
 Name: Water price = 8000
+total price : 33000
