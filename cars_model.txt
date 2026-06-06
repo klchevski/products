@@ -1,7 +1,6 @@
-Mercedes
-Chevrole
-Ford
-------
-new bmw
-new spark
-new tiko
+Mercedes = 600000
+Chevrole = 25000
+Ford = 60000
+bmw = 85000
+spark = 12000
+tiko = 6000
