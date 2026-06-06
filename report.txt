@@ -1,0 +1,11 @@
+Fast food:
+
+McDonalds
+KFS
+Burger King
+
+It:
+
+Microsoft
+Apple
+Linux
